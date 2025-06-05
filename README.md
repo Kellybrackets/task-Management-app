@@ -7,6 +7,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
+## screenshort
+![App Screenshot](./screenshot.png) <!-- Add actual screenshot -->
+---
+
 > **Your productivity powerhouse** - A sleek task management app built with React Native and TypeScript for seamless cross-platform performance.
 
 ## 🚀 Features
